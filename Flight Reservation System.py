@@ -313,7 +313,7 @@ def quit_program():
 print("\n\n")   
 print("                                                  WELCOME TO AIRWAYS RESERVATION SYSTEM                 ")
 req=True
-while(req):
+whilereq==True:
     print("\n")
     print("WHAT WOULD YOU LIKE TO DO? ")
     print(" 1) Reserve Seats ")
@@ -328,5 +328,5 @@ while(req):
     elif(ch==3):
         cancel_seat()
     elif(ch==4):
-        req=False
         quit_program() 
+        req=False
