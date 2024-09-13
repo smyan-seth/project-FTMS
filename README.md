@@ -2,7 +2,7 @@
 
 # About
 
-The Flight Management System is a Python-based program to manage the core functionalities of airline ticket reservations. This program allows the user to search for **available flights**, **reserve seats**, and **cancel bookings**. It stores passenger details and booking information in a CSV file, providing a simple yet effective solution for flight reservations. Each reservation generates a unique ticket number, and the system ensures that no overbooking occurs by keeping track of available seats.
+The Flight Ticket Management System is a Python-based program to manage the core functionalities of airline ticket reservations. This program allows the user to search for **available flights**, **reserve seats**, and **cancel bookings**. It stores passenger details and booking information in a CSV file, providing a simple yet effective solution for flight reservations. Each reservation generates a unique ticket number, and the system ensures that no overbooking occurs by keeping track of available seats.
 
 
 
