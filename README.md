@@ -1,4 +1,4 @@
-**Flight Management System**
+**Flight Ticket Management System _(FTMS)_**
 
 # About
 
